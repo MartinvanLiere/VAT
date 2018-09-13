@@ -868,7 +868,9 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="69a3dbc0d67897a8802c5027fa6fcffa" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
                     <option name="deadline" value="2018-09-14T23:59:00.000+03:00" />
                     <option name="deadlineDescription" value="2018-09-14 23:59:00 +0300" />
@@ -896,6 +898,843 @@
                     </option>
                     <option name="id" value="47484" />
                     <option name="name" value="week2-042.Hangman" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="3a2d3839b24ef438fd44b90e496b06c8" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47485" />
+                    <option name="name" value="week3-043.SumOfNumbers" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="b533d54c4f13bbf8993efed0fbe8ac9f" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47486" />
+                    <option name="name" value="week3-044.Least" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="e828144bc0372d864971c6df769261bb" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47487" />
+                    <option name="name" value="week3-045.Greatest" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="ac6de6eb54f49b230e73797d173e5f82" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47488" />
+                    <option name="name" value="week3-046.AverageOfGivenNumbers" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="26744ddfda7bebc4f72ed05f2d85c0b9" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47489" />
+                    <option name="name" value="week3-047.LengthOfName" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="0cffacdbe4c001f55262b6a263c2d2e9" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47490" />
+                    <option name="name" value="week3-048.FirstCharacter" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="6b9559606f73f3f0741ee2cd49715a4f" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47491" />
+                    <option name="name" value="week3-049.LastCharacter" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="53f7b90f65a2e71e277a2240a455d956" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47492" />
+                    <option name="name" value="week3-050.SeparatingFirstCharacters" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="52dac28eba27e48e4a97f509b96cf13d" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47493" />
+                    <option name="name" value="week3-051.SeparatingCharacters" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="79dd45c0756b36b386acb87fb0d9dfb3" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47494" />
+                    <option name="name" value="week3-052.ReversingName" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="4ec34d42d2e5e7111f72793620955ced" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47495" />
+                    <option name="name" value="week3-053.FirstPart" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="98bdbae0746cdb3374f0bd4f6510abb0" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47496" />
+                    <option name="name" value="week3-054.TheEndPart" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="8687954ef6b2bde872fd78ff2d8839a1" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47497" />
+                    <option name="name" value="week3-055.WordInsideWord" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="4052306fd5c7fb00365ae0b16df2f8b9" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47498" />
+                    <option name="name" value="week3-056.ReversingText" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="0eabbc99a1c62a40b65c71c9fef99f3a" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47499" />
+                    <option name="name" value="week3-057.Words" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="cdc785b87ac70cba1cd5fb00a5e82a1a" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47500" />
+                    <option name="name" value="week3-058.RecurringWord" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="556cd37e2178c95601e933fe8d96ce46" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47501" />
+                    <option name="name" value="week3-059.WordsInReverseOrder" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="6e1b5a99e4b3386b49f42a85d0a32245" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47502" />
+                    <option name="name" value="week3-060.WordsInAlphabeticalOrder" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="dd3b7bdb0bd4b598c1d5527b2687619b" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47503" />
+                    <option name="name" value="week3-061.NumberOfItems" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="079ad6e77b9c3a058ad4958deb097fc9" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47504" />
+                    <option name="name" value="week3-062.RemoveLast" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="957d676dbae57161c7c09e0491d8f284" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47505" />
+                    <option name="name" value="week3-063.SumOfNumbers" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="95e2351e233454a73160990729fdd9cb" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47506" />
+                    <option name="name" value="week3-064.AverageOfNumbers" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="884166287285b7304a2bd3cdd73a69ff" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47507" />
+                    <option name="name" value="week3-065.LengthsOfStrings" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="6d211b2b0b0a01e3c19880e258014d7e" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47508" />
+                    <option name="name" value="week3-066.TheGreatest" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="4f00b900134c06cf44a52b803d5a0a06" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47509" />
+                    <option name="name" value="week3-067.TheVariance" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="db810948ac5800009e5bca461d303b5c" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47510" />
+                    <option name="name" value="week3-068.MoreThanOnce" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="aa030c624ddb705268ffdcce3c86fe40" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47511" />
+                    <option name="name" value="week3-069.Palindrome" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="face8e92f912ff70947df3e794dbb6ad" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47512" />
+                    <option name="name" value="week3-070.CombiningArrayLists" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="414b4439d231aa48b23480c686bc6f78" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47513" />
+                    <option name="name" value="week3-071.SmartCombining" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="7e30997c2a5307415f1ed98f34844c85" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47514" />
+                    <option name="name" value="week4-072.1.YourFirstAccount" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="eeb042bdec653823ae631600402fcb0e" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47515" />
+                    <option name="name" value="week4-072.2.YourFirstMoneyTransfer" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="91fad02f113793c5fe969a81faea91c6" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47516" />
+                    <option name="name" value="week4-072.3.MoneyTransfers" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="f1c0a9188a640f5d38649c0e9b00b840" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47517" />
+                    <option name="name" value="week4-073.Product" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="e3548e13c2339b230d77bbe61ef47934" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47518" />
+                    <option name="name" value="week4-074.Multiplier" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="79dc08184f9a119b1ef4abf150a34d5f" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47519" />
+                    <option name="name" value="week4-075.DecreasingCounter" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="00193c2e0e2ee059fb1a584a1d67861b" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47520" />
+                    <option name="name" value="week4-076.Menu" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="eddf8c1764291fa79f90f8461a809320" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47521" />
+                    <option name="name" value="week4-077.LyyraCard" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="6754815ad5a83b1414a51395ff07c017" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47522" />
+                    <option name="name" value="week4-078.ClockUsingCounter" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="66e7adc903451d292e5188a3399c0fe5" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47523" />
+                    <option name="name" value="week4-079.NumberStatistics" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="c571210dfec81ef7c69de3022e7f2fcf" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47524" />
+                    <option name="name" value="week4-080.Dice" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="ca30fb41b4894f80fc12d455158e97b6" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47525" />
+                    <option name="name" value="week4-081.PasswordRandomizer" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="87de7d8547472ef9d11718e5973472d1" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47526" />
+                    <option name="name" value="week4-082.Lottery" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="93f413add12ee7baf09dfbfcbcfbfa59" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
+                    <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
+                    <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="47527" />
+                    <option name="name" value="week4-083.HangmanLogic" />
                     <option name="returnUrl">
                       <URI />
                     </option>
