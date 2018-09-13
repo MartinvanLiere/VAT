@@ -742,7 +742,9 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="acc6bc197e3ae344ef4580ea5b2cf161" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
                     <option name="deadline" value="2018-09-14T23:59:00.000+03:00" />
                     <option name="deadlineDescription" value="2018-09-14 23:59:00 +0300" />
@@ -845,7 +847,9 @@
                   </Exercise>
                   <Exercise>
                     <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
                     <option name="checksum" value="0dcd24b45c7bf712d1ef8b59e326a145" />
+                    <option name="completed" value="true" />
                     <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
                     <option name="deadline" value="2018-09-14T23:59:00.000+03:00" />
                     <option name="deadlineDescription" value="2018-09-14 23:59:00 +0300" />
