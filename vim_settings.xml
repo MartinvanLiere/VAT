@@ -333,6 +333,7 @@
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week1-010.CircleCircumference/src/Circumference.java" timestamp="1535743652596">
         <mark key="[" line="7" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/school/jaar2/1/Autobelasting src/Auto.java" timestamp="1537452513026" />
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-005.SecondsOfTheYear/src/SecondsOfTheYear.java" timestamp="1535646541010">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="25" />
@@ -508,6 +509,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
