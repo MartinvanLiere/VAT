@@ -46,8 +46,16 @@
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week1-014.PositiveValue/src/PositiveValue.java" timestamp="1535745384699">
         <mark key="[" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-070.CombiningArrayLists/src/CombiningArrayLists.java" timestamp="1537448661062" />
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week2-025.SumOfThreeNumbers/src/SumOfThreeNumbers.java" timestamp="1535826363157">
         <mark key="[" line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-069.Palindrome/src/Palindromi.java" timestamp="1537447790667">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-045.Greatest/src/Greatest.java" timestamp="1536855171598">
         <mark key="[" line="4" column="0" />
@@ -98,6 +106,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week1-019.AgeCheck/src/AgeCheck.java" timestamp="1535747130704">
         <mark key="[" line="6" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-068.MoreThanOnce/src/MoreThanOnce.java" timestamp="1537443940441">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="54" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-011.BiggerNumber/src/BiggerNumber.java" timestamp="1535650522605">
         <mark key="'" line="5" column="0" />
@@ -158,7 +172,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week2-042.Hangman/src/HangmanUserInteface.java" timestamp="1537429185139" />
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-008.Adder/src/Adder.java" timestamp="1535648498033">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="10" column="0" />
@@ -185,11 +198,14 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-069.Palindrome/src/reverse.java" timestamp="1537444795393">
+        <mark key="[" line="5" column="5" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-009.Divider/src/Divider.java" timestamp="1535648886692">
         <mark key="[" line="8" column="76" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-067.TheVariance/src/Variance.java" timestamp="1537442870468">
-        <mark key="'" line="30" column="3" />
+        <mark key="'" line="29" column="3" />
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -284,7 +300,7 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-056.ReversingText/src/ReversingText.java" timestamp="1536861105207">
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-056.ReversingText/src/ReversingText.java" timestamp="1537444268220">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -420,40 +436,42 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-048.FirstCharacter/src/FirstCharacter.java" />
       <jump line="13" column="79" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-051.SeparatingCharacters/src/SeparatingCharacters.java" />
       <jump line="30" column="3" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-067.TheVariance/src/Variance.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-069.Palindrome/src/Palindromi.java" />
+      <jump line="5" column="7" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-069.Palindrome/src/Palindromi.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgcmVzdWx0ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgcmVzdWx0ID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3cml0ZSBjb2RlIGhlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQgICAgcHVibGljIHN0YXRpYyBTdHJpbmcgcmV2ZXJzZShTdHJpbmcgdGV4dCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gd3JpdGUgY29kZSBoZXJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBub3RlIHRoYXQgbWV0aG9kIGRvZXMgbm93IHByaW50IGFueXRoaW5nLCBpdCBSRVRVUk5TIHRoZSByZXZlcnNlZCBzdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGV4dCA9PSByZXZlcnNlKHRleHQpKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3cml0ZSB5b3VyIGNvZGUgaGVyZQo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuUmFuZG9tOwppbXBvcnQgamF2YS51dGlsLlNjYW5uZXI7CgpwdWJsaWMgY2xhc3MgR3Vlc3NpbmdOdW1iZXJHYW1lIHsKCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU2Nhbm5lciByZWFkZXIgPSBuZXcgU2Nhbm5lcihTeXN0ZW0uaW4pOwogICAgICAgIGludCBudW1iZXJEcmF3biA9IGRyYXdOdW1iZXIoKTsKICAgICAgICBpbnQgZ3Vlc3MgPSAxOwoKICAgICAgICB3aGlsZSAodHJ1ZSkgewoKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJHdWVzcyBhIG51bWJlcjoiKTsKICAgICAgICAgICAgaW50IHVzZXIgPSBJbnRlZ2VyLnBhcnNlSW50KHJlYWRlci5uZXh0TGluZSgpKTsKCiAgICAgICAgICAgIGlmICh1c2VyID09IG51bWJlckRyYXduKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkNvbmdyYXR1bGF0aW9ucywgeW91ciBndWVzcyBpcyBjb3JyZWN0ISIpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0gZWxzZSBpZiAodXNlciAhPSBudW1iZXJEcmF3bikgewogICAgICAgICAgICAgICAgaWYgKHVzZXIgPCBudW1iZXJEcmF3bikgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGhlIG51bWJlciBpcyBncmVhdGVyLCBndWVzc2VzIG1hZGU6ICIgKyBndWVzcyk7CgkJICAgIC8vZ3Vlc3MrKzsKICAgICAgICAgICAgICAgICAgICAvL2JyZWFrOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmICh1c2VyID4gbnVtYmVyRHJhd24pIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRoZSBudW1iZXIgaXMgbGVzc2VyLCBndWVzc2VzIG1hZGU6ICIgKyBndWVzcyk7CiAgICAgICAgICAgICAgICAgICAgLy9ndWVzcysrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGd1ZXNzKys7CiAgICAgICAgfQogICAgfQoKICAgIC8vIERPIE5PVCBNT0RJRlkgVEhJUyEKICAgIHByaXZhdGUgc3RhdGljIGludCBkcmF3TnVtYmVyKCkgewogICAgICAgIHJldHVybiBuZXcgUmFuZG9tKCkubmV4dEludCgxMDEpOwogICAgfQp9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkb3VibGUgcmVzdWx0ID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB3cml0ZSBjb2RlIGhlcmUK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>package a;</text>
       </register>
     </registers>
     <search>
