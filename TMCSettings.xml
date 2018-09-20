@@ -1211,7 +1211,9 @@
                 </Exercise>
                 <Exercise>
                   <option name="allReviewPointsGiven" value="true" />
+                  <option name="attempted" value="true" />
                   <option name="checksum" value="0eabbc99a1c62a40b65c71c9fef99f3a" />
+                  <option name="completed" value="true" />
                   <option name="courseName" value="avansdeeltijd-mooc-english-part1-2013" />
                   <option name="deadline" value="2018-09-21T23:59:00.000+03:00" />
                   <option name="deadlineDescription" value="2018-09-21 23:59:00 +0300" />
