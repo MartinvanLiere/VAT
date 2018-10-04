@@ -262,10 +262,12 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-086.LyyraCardAndRegister/src/CashRegister.java" timestamp="1538655828924">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-086.LyyraCardAndRegister/src/CashRegister.java" timestamp="1538669192533">
+        <mark key="'" line="45" column="9" />
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-012.SumOfTheAges/src/SumOfTheAges.java" timestamp="1535650794600">
         <mark key="'" line="19" column="54" />
@@ -451,13 +453,14 @@
       <jump line="53" column="8" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-084.OverloadedCounter/src/Counter.java" />
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-084.OverloadedCounter/src/Counter.java" />
       <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-086.LyyraCardAndRegister/src/CashRegister.java" />
+      <jump line="38" column="9" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-086.LyyraCardAndRegister/src/CashRegister.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -484,7 +487,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cashGiven</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
