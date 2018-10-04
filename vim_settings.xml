@@ -110,6 +110,11 @@
         <mark key="^" line="17" column="54" />
         <mark key="." line="17" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-088.Students/src/Student.java" timestamp="1538671242925">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-011.BiggerNumber/src/BiggerNumber.java" timestamp="1535650522605">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="19" column="18" />
@@ -189,6 +194,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-088.Students/src/Main.java" timestamp="1538672694297">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-067.TheVariance/src/Variance.java" timestamp="1537442870468">
         <mark key="'" line="29" column="3" />
         <mark key="[" line="15" column="15" />
@@ -223,8 +233,12 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-087.ApartmentComparison/src/Apartment.java" timestamp="1538669983359">
-        <mark key="[" line="10" column="55" />
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-087.ApartmentComparison/src/Apartment.java" timestamp="1538670580403">
+        <mark key="'" line="33" column="56" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="33" column="57" />
+        <mark key="^" line="33" column="57" />
+        <mark key="." line="33" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-066.TheGreatest/src/TheGreatest.java" timestamp="1537441847537">
         <mark key="[" line="3" column="57" />
@@ -248,6 +262,7 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
+      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class" timestamp="1538671375144" />
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week1-005.SecondsOfTheYear/src/SecondsOfTheYear.java" timestamp="1535742721259">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="28" />
@@ -457,40 +472,41 @@
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-084.OverloadedCounter/src/Counter.java" />
       <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-086.LyyraCardAndRegister/src/CashRegister.java" />
       <jump line="38" column="9" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-086.LyyraCardAndRegister/src/CashRegister.java" />
+      <jump line="22" column="56" filename="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-087.ApartmentComparison/src/Apartment.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKFN0dWRlbnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiBub3QgZW5vdWdoIG1vbmV5IGdpdmVuLCBhbGwgaXMgcmV0dXJuZWQgYW5kIG5vdGhpbmcgZWxzZSBoYXBwZW5zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICBtZXRob2QgcmV0dXJucyBjYXNoR2l2ZW4gLSBsdW5jaCBwcmljZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICB0aGUgYW1vdW50IG9mIHNvbGQgbHVuY2ggaXMgaW5jcmVtZW50ZWQgYnkgb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobmFtZS5pc0VtcHR5KCkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICB0aGUgcHJpY2Ugb2YgbHVuY2ggaXMgYWRkZWQgdG8gcmVnaXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiB0aGUgZ2l2ZW4gY2FzaCBpcyBhdCBsZWFzdCB0aGUgcHJpY2Ugb2YgdGhlIGx1bmNoOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcmljZSBvZiB0aGUgZ291cm1ldCBsdW5jaCBpcyA0LjAwIGV1cm9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3QuYWRkKG5ldyBTdHVkZW50KG5hbWUsIHN0dWRlbnRudW1iZXIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>int studentnumber = Integer.parseInt(sc.nextLine());</text>
       </register>
     </registers>
     <search>
