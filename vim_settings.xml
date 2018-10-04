@@ -262,12 +262,10 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-086.LyyraCardAndRegister/src/CashRegister.java" timestamp="1538655363756">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week5-086.LyyraCardAndRegister/src/CashRegister.java" timestamp="1538655828924">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-012.SumOfTheAges/src/SumOfTheAges.java" timestamp="1535650794600">
         <mark key="'" line="19" column="54" />
@@ -456,34 +454,34 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjYXNoR2l2ZW4gLSAyLDUwID49IDApIHsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlID0gY2FzaEdpdmVuIC0gMiw1MDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlID0gY2FzaEdpdmVuOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FzaEdpdmVuIC0gMiw1ID0+IDApIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBpZiBub3QgZW5vdWdoIG1vbmV5IGdpdmVuLCBhbGwgaXMgcmV0dXJuZWQgYW5kIG5vdGhpbmcgZWxzZSBoYXBwZW5zCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICBtZXRob2QgcmV0dXJucyBjYXNoR2l2ZW4gLSBsdW5jaCBwcmljZSAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICB0aGUgYW1vdW50IG9mIHNvbGQgbHVuY2ggaXMgaW5jcmVtZW50ZWQgYnkgb25lCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICB0aGUgcHJpY2Ugb2YgbHVuY2ggaXMgYWRkZWQgdG8gcmVnaXN0ZXIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBpZiB0aGUgZ2l2ZW4gY2FzaCBpcyBhdCBsZWFzdCB0aGUgcHJpY2Ugb2YgdGhlIGx1bmNoOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBwcmljZSBvZiB0aGUgZ291cm1ldCBsdW5jaCBpcyA0LjAwIGV1cm9zCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>cashGiven</text>
