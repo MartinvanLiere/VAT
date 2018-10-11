@@ -262,7 +262,6 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="3" column="28" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class" timestamp="1538671375144" />
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week1-005.SecondsOfTheYear/src/SecondsOfTheYear.java" timestamp="1535742721259">
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="28" />
@@ -334,6 +333,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1539246558813">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-013.NhlStatisticsPart1/src/Main.java" timestamp="1536224783573">
         <mark key="[" line="14" column="44" />
