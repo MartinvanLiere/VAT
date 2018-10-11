@@ -1,7 +1,294 @@
 <application>
   <component name="TmcExerciseDatabase">
     <option name="exerciseDatabase">
-      <ExerciseDatabase />
+      <ExerciseDatabase>
+        <option name="courses">
+          <map>
+            <entry key="OO programmeren met Java vervolg">
+              <value>
+                <list>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="4679350945995270f22e1e970c9c7859" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50180" />
+                    <option name="name" value="week7-week7_01.Smileys" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="82ff12b76e955e9375db095d8319bd73" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50181" />
+                    <option name="name" value="week7-week7_02.CharacterStringChanger" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="attempted" value="true" />
+                    <option name="checksum" value="d4dc2963e6c7ef11013abae09df672a8" />
+                    <option name="completed" value="true" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50182" />
+                    <option name="name" value="week7-week7_03.Calculator" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="3539ade27c85c82c8fd067d9b768b319" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50183" />
+                    <option name="name" value="week7-week7_04.ThingSuitcaseAndContainer" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="2275473794ef2d11382928ef84a4b2b9" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50184" />
+                    <option name="name" value="week7-week7_05.Nicknames" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="2b544d2eb7990184bc9a05c5b6a5d9e6" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50185" />
+                    <option name="name" value="week7-week7_06.PromissoryNote" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="104dbbb0dbcd1ec2e7b819ce8a35f076" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50186" />
+                    <option name="name" value="week7-week7_07.Dictionary" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="083d2631626c2fc2472d184aa3c5bd5b" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50187" />
+                    <option name="name" value="week7-week7_08.Airport" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="52722fa20e91c3d5850e4223573e6dee" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50188" />
+                    <option name="name" value="week8-week8_09.CarRegistrationCentre" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="1c97c79e2fb501ad69c8f2f8cf1aef81" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50189" />
+                    <option name="name" value="week8-week8_10.NationalService" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="fc4ba9c96b9c2a2bc5831ba04001a398" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50190" />
+                    <option name="name" value="week8-week8_11.BoxesAndThings" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="5d806e86eac40906565a9a5a464407c4" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50191" />
+                    <option name="name" value="week8-week8_12.OnlineShop" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="36d970a51f0ba608a70944d33eb4ce24" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50192" />
+                    <option name="name" value="week8-week8_13.RichFirstPoorLast" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="fba3ceb6bcb4b61e64cf19c96abe43b1" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50193" />
+                    <option name="name" value="week8-week8_14.StudentsSortedByName" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="f88b92d8c39f5f7cb9b9fca0faad105f" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50194" />
+                    <option name="name" value="week8-week8_15.SortedCards" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                  <Exercise>
+                    <option name="allReviewPointsGiven" value="true" />
+                    <option name="checksum" value="469d52b0fa2c7ed7b2b88f0d8f54c5d4" />
+                    <option name="courseName" value="avansdeeltijd-mooc-english-part2-2013" />
+                    <option name="downloadUrl">
+                      <URI />
+                    </option>
+                    <option name="id" value="50195" />
+                    <option name="name" value="week8-week8_16.SkiJumping" />
+                    <option name="returnUrl">
+                      <URI />
+                    </option>
+                    <option name="returnable" value="true" />
+                    <option name="zipUrl">
+                      <URI />
+                    </option>
+                  </Exercise>
+                </list>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </ExerciseDatabase>
     </option>
   </component>
 </application>
