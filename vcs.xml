@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/MartinvanLiere/VAT.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JohanDeLijser/VAT" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/data" />
