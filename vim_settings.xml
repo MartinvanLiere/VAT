@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-003.Spruce/src/Spruce.java" timestamp="1535646097466">
@@ -37,6 +37,7 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/testvat/src/sample/Main.java" timestamp="1540124150352" />
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week4-078.ClockUsingCounter/src/Main.java" timestamp="1537708799856">
         <mark key="'" line="34" column="15" />
         <mark key="[" line="25" column="70" />
@@ -358,6 +359,7 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="29" />
       </file>
+      <file name="$USER_HOME$/data/VATaa/src/ShapeAnalysisTool/Main.java" timestamp="1540124144339" />
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansdeeltijd-mooc-english-part1-2013/week3-056.ReversingText/src/ReversingText.java" timestamp="1537444268220">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="25" column="0" />
@@ -373,8 +375,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540123254478">
-        <mark key="[" line="0" column="36" />
+      <file name="/Dummy.txt" timestamp="1540124013721">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
       </file>
@@ -489,6 +491,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1540124023299">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
