@@ -373,8 +373,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539966253933">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1540123254478">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TMCProjects/avansbreda-avansbreda-programmeren-1-2018-2019/week1-013.NhlStatisticsPart1/src/Main.java" timestamp="1536224783573">
         <mark key="[" line="14" column="44" />
@@ -550,7 +552,7 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI6KSAiICsgY2hhcmFjdGVyU3RyaW5nICsgIiAgOikiKTsKCiAgICAgICAgZm9yKGludCBpID0gLTM7aSA8IChjaGFyYWN0ZXJTdHJpbmcubGVuZ3RoKCkgLzIpOyBpKyspIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgiOikiKTs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>/tree/feature/johan/src/ShapeAnalysisTool</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2UgU3lzdGVtLm91dC5wcmludGxuKCI6KSAiICsgY2hhcmFjdGVyU3RyaW5nICsgIiAgOikiKTsK</text>
@@ -577,7 +579,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZFRoaW5nKFRoaW5nIHRoaW5nKSwgd2hpY2ggYWRkcyB0aGUgdGhpbmcgaW4gdGhlIHBhcmFtZXRlciB0byB5b3VyIHN1aXRjYXNlLiBUaGUgbWV0aG9kIGRvZXMgbm90IHJldHVybiBhbnkgdmFsdWUuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/tree/feature/johan/src/ShapeAnalysisTool</text>
       </register>
     </registers>
     <search>
